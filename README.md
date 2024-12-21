@@ -22,6 +22,6 @@
 
 ### Resutados após a aplicação do método contra a defesa
 
-<img src="clone_facebook.png" alt="Clone do Facebook" width="300" height="150"/>
+<img src="clone_facebook.png" alt="Clone do Facebook" width="600" height="300"/>
 </br>
-<img src="ResolucaoFinal.png" alt="Clone do Facebook" width="300" height="100" />
+<img src="ResolucaoFinal.png" alt="Clone do Facebook" width="600" height="300" />
