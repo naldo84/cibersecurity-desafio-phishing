@@ -16,6 +16,12 @@
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.facebook.com
 
-### Resutados
+#### Nota
+- Devido ao processo de defesa do Facebook contra scripts maliciosos, usei o procedimento abaixo para resolução do desafio: 
+    - https://github.com/Weslley22Marques/cibersecurity-desafio-phishing
 
-![Alt text](./passwd.png "Optional title")
+### Resutados após a aplicação do método contra a defesa
+
+<img src="clone_facebook.png" alt="Clone do Facebook" width="300" height="150"/>
+</br>
+<img src="ResolucaoFinal.png" alt="Clone do Facebook" width="300" height="100" />
